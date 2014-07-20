@@ -231,6 +231,7 @@ module.exports = function (grunt) {
               css: ['cssmin']
             },
             post: {}
+            
           }
         }
       }
